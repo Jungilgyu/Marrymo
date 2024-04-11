@@ -33,7 +33,7 @@ public class OpenBankingService {
                 .code(openBankingCodeRequest.getCode())
                 .client_id(clientId)
                 .client_secret(clientSecret)
-                .redirect_uri("http://localhost:8080/api/open-banking/account")
+                .redirect_uri("https://marrymo.site/open-banking")n
                 .grant_type("authorization_code")
                 .build();
 
