@@ -9,8 +9,6 @@ export const cardUnderTopWrapper = style([
     textAlign: 'center',
     justifyContent: 'center',
     paddingTop: '80px',
-    
-
   }
 ]);
 

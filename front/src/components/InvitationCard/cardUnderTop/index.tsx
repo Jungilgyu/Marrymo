@@ -14,7 +14,7 @@ const CardUnderTop = ({
   location
 }: CardUnderTopProps) => {
   const formattedDate = formatDateTime(weddingDate, weddingTime)
-
+  
   return (
     <div className={styles.cardUnderTopWrapper}>
       <div className={styles.cardUnderTopText}>

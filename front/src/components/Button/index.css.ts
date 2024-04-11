@@ -84,6 +84,7 @@ const commonButtonVariants = {
     true: {},
     false: {},
   },
+
   disabled: {
     true: disabledStyle,
     false: {},
@@ -154,4 +155,3 @@ export interface CommonButtonVariantProps {
   colorStyle: keyof typeof commonButtonVariants.colorStyle;
   filled: boolean;
 }
-
