@@ -1,5 +1,5 @@
 # Marrymo
-### SSAFY 10기 특화 프로젝트(핀테크) 4반 :v: 했다치고 :v: <br /> (2024.02.26 ~ 2024.04.04)![marrymo introduction](https://github.com/Marrymo-s/Marrymo/assets/93860089/b4889b66-42af-4214-8ab4-31d09e8a695f)
+### SSAFY 10기 특화 프로젝트(핀테크) 4반 3위 :v: 팀 했다치고 :v: <br /> (2024.02.26 ~ 2024.04.04)![marrymo introduction](https://github.com/Marrymo-s/Marrymo/assets/93860089/b4889b66-42af-4214-8ab4-31d09e8a695f)
 
 ## :notebook_with_decorative_cover: 목차 :notebook_with_decorative_cover:
 :one: [프로젝트 소개](#1-프로젝트-소개) <br/>
