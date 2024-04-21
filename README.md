@@ -234,23 +234,23 @@ return openBankingWebClient
 ## 9. 팀원 소개 및 역할
 #### :cherry_blossom: 김재윤 (Team Leader)
 - Infra, Backend
-- 스프링 시큐리티(은행 서버), 인프라, CI/CD, 카카오페이 API 연동, 축의금 내역 문서화
+- 인프라, CI/CD, 카카오페이 API, 축의금 내역 문서화, 인증/인가(은행)
 #### :tulip: 김하연
 - Infra, Backend
-- 은행 송금 API, Marrymo와 송금 및 계좌 등록 은행 API 통신, CI/CD 파이프라인 구축
+- 인프라, CI/CD, 송금 API, Marrymo와 송금 및 계좌 등록 은행 API 통신(WebClient)
 
 #### :four_leaf_clover: 류승광
 - Frontend
 - 유저 정보 관리 로직 구성
 #### :rose: 박도연
 - Backend
-- 카카오 소셜 로그인, 스프링 시큐리티, JWT, SMTP, 오픈 뱅킹 API 연동
+- 카카오 소셜 로그인(JWT), 금융결제원 API 연동, 인증/인가(Marrymo), SMTP
 
 #### :sunflower: 정일규
 - Frontend
 - 청첩장, 위시아이템 데이터 관리
 
 #### :hibiscus: 정지원
-- Full stack
-- Backend : Redis, REST API 구현, SMTP
+- Frontend, Backend
 - Frontend : 송금, 오픈뱅킹 계좌 연결, 축의금 내역 구성
+- Backend : Redis, REST API 구현, SMTP
