@@ -1,4 +1,4 @@
-# Marrymo
+# Marrymo (모바일 청첩장 제작 및 축의금 송금 서비스)
 ### SSAFY 10기 특화 프로젝트(핀테크) 4반 3위 :v: 팀 했다치고 :v: <br /> (2024.02.26 ~ 2024.04.04)![marrymo introduction](https://github.com/Marrymo-s/Marrymo/assets/93860089/b4889b66-42af-4214-8ab4-31d09e8a695f)
 
 ## :notebook_with_decorative_cover: 목차 :notebook_with_decorative_cover:
